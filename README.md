@@ -5,7 +5,7 @@
 <div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=lerapela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&bg_color=000000" height="250"  alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapela&layout=donut-vertical&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=html,css,scss,jupyter%20notebook&langs_count=8" height="250"  alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapela&layout=donut-vertical&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=15" height="250"  alt="Most Used Languages" />
   </div>
 </div>
 
@@ -18,7 +18,7 @@
 - 😄 Pronouns: He
 
 ### ⚡ Fun Fact
-When I’m not deep into code, I’m usually teaming up with my dad on electrical and construction projects. It’s a different kind of problem-solving—but just as rewarding! 😄💡🏗️
+When I'm not deep into code, I'm usually teaming up with my dad on electrical and construction projects. It's a different kind of problem-solving—but just as rewarding! 😄💡🏗️
 
 ---
 
@@ -27,11 +27,17 @@ When I’m not deep into code, I’m usually teaming up with my dad on electrica
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,androidstudio,bootstrap,firebase,flask,java,postgres," />
+  <img src="https://skillicons.dev/icons?i=py,androidstudio,bootstrap,firebase,flask,java,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,xd,tensorflow,sklearn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo" />
+  <img src="https://github.com/user-attachments/assets/f290f7da-7b9e-4b8c-8593-12aed728c27b" height="40" alt="tool name" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://github.com/user-attachments/assets/0b452d6a-737e-4eca-a59c-b8b785fe1886" height="40" alt="tool name" style="vertical-align: middle; margin: 5px;" />
+ 
+
 </p>
 
 ---
