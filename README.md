@@ -1,27 +1,24 @@
-
 <h2 align="left">Hi 👋! My name is Lerapela and I'm an aspiring Data Scientist & AI/ML Engineer, from South Africa</h2>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lerapela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lerapela&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="languages graph" />
+<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lerapela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&bg_color=000000" height="250"  alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapela&layout=donut-vertical&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&hide=html,css,scss,jupyter%20notebook&langs_count=8" height="250"  alt="Most Used Languages" />
+  </div>
 </div>
-
-
-
-
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning AI model training, real-time data processing, and Applied Data Science.
-- 👀 I’m interested in AI, machine learning, and Data Science projects.
+- 🌱 I'm currently learning AI model training, real-time data processing, and Applied Data Science.
+- 👀 I'm interested in AI, machine learning, and Data Science projects.
 - 💞️ I'm looking to collaborate on innovative ML models, data analysis, visualization, and dashboard building projects.
 - 😄 Pronouns: He
 
-### ⚡ Fun Fact:
-When I'm not coding, you'll probably find me working with my dad on electricity and construction work—because who needs rest when you’ve got a wrench and a circuit board!
+### ⚡ Fun Fact
+When I’m not deep into code, I’m usually teaming up with my dad on electrical and construction projects. It’s a different kind of problem-solving—but just as rewarding! 😄💡🏗️
 
 ---
 
@@ -33,13 +30,9 @@ When I'm not coding, you'll probably find me working with my dad on electricity 
   <img src="https://skillicons.dev/icons?i=py,androidstudio,bootstrap,firebase,flask,java,postgres," />
   <img src="https://skillicons.dev/icons?i=html,css,xd,tensorflow,sklearn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
 </p>
-
-
 
 ---
 
@@ -51,7 +44,6 @@ When I'm not coding, you'll probably find me working with my dad on electricity 
   <a href="mailto:masebelerapela97@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  
 </div>
 
 ---
