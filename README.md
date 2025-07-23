@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lerapela and I'm an aspiring Data Scientist & AI/ML Engineer, from South Africa</h2>
+<h2 align="left">Hi 👋! My name is Lerapela and I'm an aspiring AI Engineer and Software Developer, from South Africa</h2>
 
 ---
 
