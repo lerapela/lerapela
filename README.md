@@ -1,44 +1,26 @@
-<h2 align="left">Hi 👋! My name is Lerapela and I'm an aspiring AI Engineer and Software Developer, from South Africa</h2>
+<h2 align="left">Hi 👋! My name is Lerapela and I'm an aspiring AI and Software Engineer, from South Africa</h2>
 
 ---
 
-<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lerapela&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&bg_color=000000" height="250"  alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapela&layout=donut-vertical&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=15" height="250"  alt="Most Used Languages" />
-  </div>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lerapela&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000" height="180" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapela&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180" alt="Top Languages" />
+
 </div>
+
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I'm currently learning AI model training, real-time data processing, and Applied Data Science.
-- 👀 I'm interested in AI, machine learning, and Data Science projects.
-- 💞️ I'm looking to collaborate on innovative ML models, data analysis, visualization, and dashboard building projects.
+
+- 👀 I'm interested in AI, machine learning and Software Development.
+- 💞️ I'm looking to collaborate on fun and useful projects.
 - 😄 Pronouns: He
 
 ### ⚡ Fun Fact
 When I'm not deep into code, I'm usually teaming up with my dad on electrical and construction projects. It's a different kind of problem-solving—but just as rewarding! 😄💡🏗️
-
----
-
-### 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,androidstudio,bootstrap,firebase,flask,java,postgres" />
-  <img src="https://skillicons.dev/icons?i=html,css,xd,tensorflow,sklearn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="plotly logo" />
-  <img src="https://github.com/user-attachments/assets/f290f7da-7b9e-4b8c-8593-12aed728c27b" height="40" alt="tool name" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/0b452d6a-737e-4eca-a59c-b8b785fe1886" height="40" alt="tool name" style="vertical-align: middle; margin: 5px;" />
- 
-
-</p>
 
 ---
 
