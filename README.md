@@ -2,13 +2,10 @@
 
 ---
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lerapela&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000" height="180" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lerapela&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180" alt="Top Languages" />
-
+<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
+  ...
 </div>
+
 
 
 ---
