@@ -2,10 +2,7 @@
 
 ---
 
-<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
-  ...
-</div>
-
+<div align="center"> <img src="./profile/stats.svg" height="250" alt="GitHub Stats" /> <img src="./profile/top-langs.svg" height="250" alt="Top Languages" /> </div>
 
 
 ---
