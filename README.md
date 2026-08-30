@@ -2,10 +2,6 @@
 
 ---
 
-<div align="center"> <img src="./profile/stats.svg" height="250" alt="GitHub Stats" /> <img src="./profile/top-langs.svg" height="250" alt="Top Languages" /> </div>
-
-
----
 
 ### 👨‍💻 About Me
 
