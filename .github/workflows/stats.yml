@@ -20,7 +20,7 @@ steps:
     uses: stats-organization/github-readme-stats-action@v2
     with:
       card: stats
-      options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=dark
+      options: username=lerapela&show_icons=true&include_all_commits=true&count_private=true&theme=dark
       path: profile/stats.svg
       token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ steps:
     uses: stats-organization/github-readme-stats-action@v2
     with:
       card: top-langs
-      options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dark
+      options: username=lerapela&layout=compact&langs_count=10&theme=dark
       path: profile/top-langs.svg
       token: ${{ secrets.GITHUB_TOKEN }}
 
